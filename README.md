@@ -1,2 +1,2 @@
-# clash
-@desc game website
+# clash of clans
+@desc: game website
